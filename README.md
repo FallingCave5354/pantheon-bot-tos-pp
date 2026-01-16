@@ -1,6 +1,3 @@
-# pantheon-bot-tos-pp
-Terms of Service and Privacy Policy for Pantheon Bot
-
 # Terms of Service & Privacy Policy
 
 **Bot Name:** Pantheon Realms Bot  
