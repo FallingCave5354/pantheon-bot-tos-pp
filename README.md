@@ -84,4 +84,4 @@ We do not sell, trade, or transfer your data to outside parties. Your data is on
 
 If you have questions regarding this privacy policy or wish to request a manual deletion of your data, please contact the server owner via:
 
-* **Discord Ticket System:** Pantheon Realms Discord
+* **Discord Ticket System:** [Pantheon Realms Discord](https://discord.gg/pantheonrealms)
